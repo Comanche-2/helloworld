@@ -1,7 +1,7 @@
 <?php
 namespace HelloWorld;
 
-interface Hello{
+interface HelloInterface{
     public function hello_mate();
 }
 ?>
