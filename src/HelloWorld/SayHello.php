@@ -2,7 +2,7 @@
 
 namespace HelloWorld;
 
-class SayHello implements HelloInterface{
+class SayHello implements Hello{
     
     public static function hello(){
         return 'Hello World !, Composer';
